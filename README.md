@@ -1,7 +1,8 @@
 # Filtering Process
 
-## Kullanılan Teknolojiler:
+## Dependencies:
 - Apache Spark
+- Spark SQL
 - Python3
 
 
