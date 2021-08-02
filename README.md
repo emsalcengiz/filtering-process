@@ -1,8 +1,8 @@
 # Filtering Process
 
 ## Dependencies:
+
 - Apache Spark
-- Spark SQL
 - Python3
 
 
